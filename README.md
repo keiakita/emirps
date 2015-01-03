@@ -8,8 +8,10 @@ it is interesting that 2015 includes the pair of emirps (13, 31).
 
 let's get the list of emirps up to n
 
-about "emirp", see below...
+about "emirp", see this...
 http://en.wikipedia.org/wiki/Emirp
+
+
 
 emirp.js
 
@@ -22,7 +24,7 @@ emirp.js
  -emirp.getEmirps(n) : get the list of emirps up to n
 
 
-ponints
+points
 
  1: using array digit = [[1,1], [1,3], [1,7], [1,9], [3,3], [3,7], [3,9], [7,7], [7,9], [9,9]]
  
