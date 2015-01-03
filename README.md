@@ -27,6 +27,7 @@ emirp.js
 points
 
  1: using array digit = [[1,1], [1,3], [1,7], [1,9], [3,3], [3,7], [3,9], [7,7], [7,9], [9,9]]
+   e.g.) emirp.isPrime(1xy7) && emirp.isPrime(7yx1) => 1xy7 is emirp
  
  2: separating getPrimes() and isPrime()
  
